@@ -137,7 +137,7 @@
 
 ### Clone project (https)
 ```powershell
-git clone https://github.com/kinari4041/taste_zip.git
+git clone https://github.com/qwer1234qwe123/taste_zip.git
 ```
 ### Go to project
 ```powershell
